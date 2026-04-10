@@ -16,8 +16,17 @@ Work begins with a **Project One-pager/Charter** that defines the problem, SMART
 - **Project Manager (PM)** — coordinates delivery, schedules, risks, and stakeholder communications.
 - **Product Manager (PdM/Product Lead)** — defines outcomes, prioritizes the backlog, and measures success.
 - **Developers** — implement features, write tests, and collaborate through code review.
-- **QA/Testing** — validates against acceptance criteria and quality standards.
-- **Stakeholders/Sponsor** — provide inputs, approvals, and executive oversight.
+- **Technical Lead / Engineering Lead** — provides technical direction, architecture decisions, and mentorship.
+- **QA / Test Engineer** — validates quality and acceptance criteria; owns quality gates.
+- **UX / UI Designer** — leads user research, prototyping, and design consistency.
+- **Release Manager** — owns end-to-end release coordination and go/no-go decisions.
+- **Security / AppSec Engineer** — embeds security practices and validates security posture before release.
+- **SRE / DevOps Engineer** — owns CI/CD pipelines, infrastructure, reliability, and incident response.
+- **Data Analyst** — defines and tracks metrics; supports data-driven decision-making.
+- **Customer Support / Support Lead** — surfaces customer feedback and incidents; participates in release reviews.
+- **Stakeholders / Sponsor** — provide inputs, approvals, and executive oversight.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for full definitions, responsibilities, and cross-role interactions.
 
 ---
 
@@ -65,3 +74,6 @@ After each sprint, release, milestone, or incident the team runs a **retrospecti
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release checklist, deployment steps, rollback playbook, release notes template |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retro structure, action item tracking, and improvement cadence |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns for each role |
+| [RACI Matrix Template](octoacme-raci-matrix-template.md) | Ownership matrix mapping all personas to project lifecycle activities |
+| [Phase Handoff Checklist](octoacme-phase-handoff-checklist.md) | Required artefacts and sign-offs at each lifecycle phase transition |
+| [Stakeholder Communication & Escalation Guide](octoacme-stakeholder-communication-and-escalation.md) | Communication cadence, escalation paths, and message templates |
