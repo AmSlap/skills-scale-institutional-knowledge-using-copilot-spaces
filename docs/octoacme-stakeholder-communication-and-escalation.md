@@ -27,7 +27,7 @@ Use this as a running checklist throughout the project. Check off each cadence i
 | Communication | Owner | Audience | Format | Checklist |
 |---|---|---|---|:---:|
 | Sprint planning | Project Manager (facilitates) | Full delivery team | Meeting | ☐ |
-| Daily standup | Project Manager (facilitates) | Developers, QA, UX, Technical Lead | Meeting (15 min max) | ☐ |
+| Daily standup | Project Manager (facilitates) | Developers, QA / Test Engineer, UX / UI Designer, Technical Lead | Meeting (15 min max) | ☐ |
 | Sprint demo / review | Product Manager (facilitates) | Stakeholders, Sponsor (optional), full team | Meeting + recording | ☐ |
 | Retrospective | Project Manager (facilitates) | Full delivery team | Meeting | ☐ |
 | Sprint action items distributed | Project Manager | Named owners | Written (issue tracker or doc) | ☐ |
